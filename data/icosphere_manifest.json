@@ -1,0 +1,41 @@
+[
+  {
+    "file": "luna_icosphere.stl",
+    "triangles": 327680,
+    "vertices": 163842,
+    "non_manifold_edges": 0,
+    "volume_mm3": 946734.58,
+    "bbox_mm": [
+      121.976,
+      122.183,
+      122.262
+    ],
+    "stl_bytes": 16384084
+  },
+  {
+    "file": "terra_icosphere.stl",
+    "triangles": 327680,
+    "vertices": 163842,
+    "non_manifold_edges": 0,
+    "volume_mm3": 941725.71,
+    "bbox_mm": [
+      122.127,
+      121.756,
+      122.214
+    ],
+    "stl_bytes": 16384084
+  },
+  {
+    "file": "pluto_icosphere.stl",
+    "triangles": 327680,
+    "vertices": 163842,
+    "non_manifold_edges": 0,
+    "volume_mm3": 946494.29,
+    "bbox_mm": [
+      122.989,
+      122.488,
+      121.42
+    ],
+    "stl_bytes": 16384084
+  }
+]

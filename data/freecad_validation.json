@@ -1,0 +1,218 @@
+[
+  {
+    "file": "luna_icosphere.stl",
+    "facets": 327680,
+    "points": 163842,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": false,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 946728.31,
+    "area_mm2": 47029.02,
+    "bbox_mm": [
+      121.976,
+      122.183,
+      122.262
+    ]
+  },
+  {
+    "file": "pluto_icosphere.stl",
+    "facets": 327680,
+    "points": 163842,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": false,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 946491.31,
+    "area_mm2": 46825.89,
+    "bbox_mm": [
+      122.989,
+      122.488,
+      121.42
+    ]
+  },
+  {
+    "file": "terra_icosphere.stl",
+    "facets": 327680,
+    "points": 163842,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": false,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 941691.19,
+    "area_mm2": 46599.71,
+    "bbox_mm": [
+      122.127,
+      121.756,
+      122.214
+    ]
+  },
+  {
+    "file": "luna_part_bottom.stl",
+    "facets": 82730,
+    "points": 41367,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 16890.84,
+    "area_mm2": 11934.01,
+    "bbox_mm": [
+      82.378,
+      81.586,
+      16.374
+    ]
+  },
+  {
+    "file": "luna_part_middle.stl",
+    "facets": 495756,
+    "points": 247880,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 122001.0,
+    "area_mm2": 78048.62,
+    "bbox_mm": [
+      121.976,
+      122.183,
+      90.0
+    ]
+  },
+  {
+    "file": "luna_part_top.stl",
+    "facets": 82958,
+    "points": 41481,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 16984.86,
+    "area_mm2": 11936.86,
+    "bbox_mm": [
+      82.311,
+      82.187,
+      15.888
+    ]
+  },
+  {
+    "file": "pluto_part_bottom.stl",
+    "facets": 84242,
+    "points": 42123,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 17267.45,
+    "area_mm2": 12117.13,
+    "bbox_mm": [
+      83.748,
+      82.421,
+      15.82
+    ]
+  },
+  {
+    "file": "pluto_part_middle.stl",
+    "facets": 495300,
+    "points": 247652,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 122420.48,
+    "area_mm2": 78053.66,
+    "bbox_mm": [
+      122.989,
+      122.488,
+      90.0
+    ]
+  },
+  {
+    "file": "pluto_part_top.stl",
+    "facets": 81828,
+    "points": 40916,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 16591.24,
+    "area_mm2": 11592.41,
+    "bbox_mm": [
+      81.044,
+      81.307,
+      15.6
+    ]
+  },
+  {
+    "file": "terra_part_bottom.stl",
+    "facets": 82182,
+    "points": 41093,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 16809.79,
+    "area_mm2": 11736.47,
+    "bbox_mm": [
+      82.114,
+      81.026,
+      16.387
+    ]
+  },
+  {
+    "file": "terra_part_middle.stl",
+    "facets": 495912,
+    "points": 247958,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 121289.5,
+    "area_mm2": 77201.59,
+    "bbox_mm": [
+      122.127,
+      121.756,
+      90.0
+    ]
+  },
+  {
+    "file": "terra_part_top.stl",
+    "facets": 83336,
+    "points": 41670,
+    "is_solid": true,
+    "has_nonmanifolds": false,
+    "has_self_intersections": true,
+    "invalid_neighbourhood": false,
+    "components": 1,
+    "non_uniform_oriented_facets": 0,
+    "volume_mm3": 17160.06,
+    "area_mm2": 11957.91,
+    "bbox_mm": [
+      82.801,
+      81.773,
+      15.827
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "file": "luna_part_bottom.stl",
+    "triangles": 82730,
+    "vertices": 329600,
+    "non_manifold_edges": 0,
+    "volume_mm3": 16890.8,
+    "bbox_mm": [
+      82.378,
+      81.586,
+      16.374
+    ],
+    "stl_bytes": 4136584,
+    "slug": "luna",
+    "part": "bottom"
+  },
+  {
+    "file": "luna_part_middle.stl",
+    "triangles": 495756,
+    "vertices": 331594,
+    "non_manifold_edges": 0,
+    "volume_mm3": 122021.73,
+    "bbox_mm": [
+      121.976,
+      122.183,
+      90.0
+    ],
+    "stl_bytes": 24787884,
+    "slug": "luna",
+    "part": "middle"
+  },
+  {
+    "file": "luna_part_top.stl",
+    "triangles": 82958,
+    "vertices": 329592,
+    "non_manifold_edges": 0,
+    "volume_mm3": 16985.09,
+    "bbox_mm": [
+      82.311,
+      82.187,
+      15.888
+    ],
+    "stl_bytes": 4147984,
+    "slug": "luna",
+    "part": "top"
+  },
+  {
+    "file": "terra_part_bottom.stl",
+    "triangles": 82182,
+    "vertices": 329584,
+    "non_manifold_edges": 0,
+    "volume_mm3": 16809.94,
+    "bbox_mm": [
+      82.114,
+      81.026,
+      16.387
+    ],
+    "stl_bytes": 4109184,
+    "slug": "terra",
+    "part": "bottom"
+  },
+  {
+    "file": "terra_part_middle.stl",
+    "triangles": 495912,
+    "vertices": 331570,
+    "non_manifold_edges": 0,
+    "volume_mm3": 121277.62,
+    "bbox_mm": [
+      122.127,
+      121.756,
+      90.0
+    ],
+    "stl_bytes": 24795684,
+    "slug": "terra",
+    "part": "middle"
+  },
+  {
+    "file": "terra_part_top.stl",
+    "triangles": 83336,
+    "vertices": 329588,
+    "non_manifold_edges": 0,
+    "volume_mm3": 17160.89,
+    "bbox_mm": [
+      82.801,
+      81.773,
+      15.827
+    ],
+    "stl_bytes": 4166884,
+    "slug": "terra",
+    "part": "top"
+  },
+  {
+    "file": "pluto_part_bottom.stl",
+    "triangles": 84242,
+    "vertices": 329618,
+    "non_manifold_edges": 0,
+    "volume_mm3": 17267.61,
+    "bbox_mm": [
+      83.748,
+      82.421,
+      15.82
+    ],
+    "stl_bytes": 4212184,
+    "slug": "pluto",
+    "part": "bottom"
+  },
+  {
+    "file": "pluto_part_middle.stl",
+    "triangles": 495300,
+    "vertices": 331582,
+    "non_manifold_edges": 0,
+    "volume_mm3": 122429.49,
+    "bbox_mm": [
+      122.989,
+      122.488,
+      90.0
+    ],
+    "stl_bytes": 24765084,
+    "slug": "pluto",
+    "part": "middle"
+  },
+  {
+    "file": "pluto_part_top.stl",
+    "triangles": 81828,
+    "vertices": 329568,
+    "non_manifold_edges": 0,
+    "volume_mm3": 16590.49,
+    "bbox_mm": [
+      81.044,
+      81.307,
+      15.6
+    ],
+    "stl_bytes": 4091484,
+    "slug": "pluto",
+    "part": "top"
+  }
+]

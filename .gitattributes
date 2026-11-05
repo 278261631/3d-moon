@@ -1,0 +1,7 @@
+﻿* text=auto
+*.stl binary
+*.obj binary
+*.png binary
+*.jpg binary
+*.npy binary
+*.npz binary
